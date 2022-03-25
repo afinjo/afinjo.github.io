@@ -1,5 +1,4 @@
-$(function() {
-    $('.iframe-link').magnificPopup({
-     type:'iframe'
-    });
+$('.test-popup-link').magnificPopup({
+    type: 'image'
+    // other options
   });
